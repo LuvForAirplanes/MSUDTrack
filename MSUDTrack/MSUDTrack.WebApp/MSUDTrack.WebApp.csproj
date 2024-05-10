@@ -23,7 +23,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="NinjaNye.SearchExtensions" Version="3.0.1" />
-    <PackageReference Include="Npgsql" Version="4.0.8" />
+    <PackageReference Include="Npgsql" Version="4.0.14" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.4" />
   </ItemGroup>
 
